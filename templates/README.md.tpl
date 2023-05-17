@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 My name is Danny van der Sluijs, and I am a Technical Lead at [Infi](https://www.infi.nl) and Maintainer of [JsonMapper](https://jsonmapper.net) who likes contributing to open source ✨.
 
-In my day-to-day job I work as a Technical Lead at [Infi](https://www.infi.nl) working on various challenging projects for our customers. In my spare time I maintain [JsonMapper](https://jsonmapper.net) a package to map JSON data to PHP classes.
-
 To help out with the open source community there are some project I contribute to and/or manage:
-- (Exact PHP Client)[https://github.com/picqer/exact-php-client]
-- (Laravel Mail CSS Inliner)[https://github.com/fedeisas/laravel-mail-css-inliner]
+- [JsonMapper](https://github.com/JsonMapper/JsonMapper)
+- [Exact PHP Client](https://github.com/picqer/exact-php-client)
+- [Laravel Mail CSS Inliner](https://github.com/fedeisas/laravel-mail-css-inliner)
 
 If one of those open source projects is critical for your business, [please consider supporting my work with your sponsoring 💕](https://github.com/sponsors/DannyvdSluijs)
 
@@ -32,10 +31,11 @@ If one of those open source projects is critical for your business, [please cons
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔨 My recent Pull Requests
+## 🔨 My recent Pull Requests
 {{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
 ---
 
 see [all my recent activities](https://DannyvdSluijs.github.io/recent-work.html)
