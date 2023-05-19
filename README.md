@@ -26,6 +26,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [ci: Add PHP 8.1 and 8.2 to build matrix](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/7) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/6) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [fix: Don&#39;t create dynamic property in Dispatcher](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/4) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [test: Proof @param ?string is supported in current setup](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/3) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/2) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
+- [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/1) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (today)
 - [Correct typo in README.md.tpl](https://github.com/staabm/staabm/pull/2) on [staabm/staabm](https://github.com/staabm/staabm) (2 days ago)
 - [feat: Update of models based on online documentation retrieved at 2023-05-16](https://github.com/picqer/exact-php-client/pull/610) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/77) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 days ago)
@@ -34,13 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [feat: Add recursive traversal support for CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/160) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Correct url by removing leading slash](https://github.com/phpmd/phpmd/pull/1000) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
 - [fix: Correct position check of deprecation message](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/190) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [feat: Add endpoint deprecation support](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/189) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [feat: Update api implementation based on online docs 04-04-2023](https://github.com/picqer/exact-php-client/pull/605) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [fix: Add early return when property is nullable and the value is null](https://github.com/JsonMapper/JsonMapper/pull/159) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [refactor: Resolve HTTP kernel vulnerability](https://github.com/JsonMapper/SymfonyBundle/pull/8) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
-- [docs: Correct documentation examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/27) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
-- [Update camera source url](https://github.com/iChoosr-BVBA/everybody-codes/pull/4) on [iChoosr-BVBA/everybody-codes](https://github.com/iChoosr-BVBA/everybody-codes) (2 months ago)
-- [fix: Allow for psr/simple-cache 2.0 or 3.0](https://github.com/JsonMapper/JsonMapper/pull/156) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 
 ---
 
