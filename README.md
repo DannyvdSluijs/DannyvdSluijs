@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [ci: Add PHP 8.1 and 8.2 to build matrix](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/7) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (5 days ago)
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/6) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (5 days ago)
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (5 days ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [perf: Backport v5 performance improvements onto v4.0.4 (3461e3f)](https://github.com/sebastianbergmann/diff/pull/120) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (2 weeks ago)
 - [feat: Add recursive traversal support for CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/160) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [Correct url by removing leading slash](https://github.com/phpmd/phpmd/pull/1000) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
-- [fix: Correct position check of deprecation message](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/190) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 
 ---
 
