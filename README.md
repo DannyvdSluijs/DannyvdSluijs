@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
@@ -26,7 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 days ago)
+- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
 - [ci: Add PHP 8.1 and 8.2 to build matrix](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/7) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/6) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
