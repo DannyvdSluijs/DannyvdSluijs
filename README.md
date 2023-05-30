@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (1 week ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
@@ -26,8 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [build: Set version constraint on guzzlehttp/psr7 to avoid CVE-2023-29197](https://github.com/fedeisas/laravel-mail-css-inliner/pull/307) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
-- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [build: Set version constraint on guzzlehttp/psr7 to avoid CVE-2023-29197](https://github.com/fedeisas/laravel-mail-css-inliner/pull/307) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 day ago)
+- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
 - [ci: Add PHP 8.1 and 8.2 to build matrix](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/7) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/6) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
@@ -36,11 +36,11 @@ If one of those open source projects is critical for your business, [please cons
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/2) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/1) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (1 week ago)
 - [Correct typo in README.md.tpl](https://github.com/staabm/staabm/pull/2) on [staabm/staabm](https://github.com/staabm/staabm) (1 week ago)
-- [feat: Update of models based on online documentation retrieved at 2023-05-16](https://github.com/picqer/exact-php-client/pull/610) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [feat: Update of models based on online documentation retrieved at 2023-05-16](https://github.com/picqer/exact-php-client/pull/610) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/77) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (2 weeks ago)
 - [fix: Support private properties from parent class in DocBlockAnnotations and TypedProperties](https://github.com/JsonMapper/JsonMapper/pull/161) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [perf: Backport v5 performance improvements onto v4.0.4 (3461e3f)](https://github.com/sebastianbergmann/diff/pull/120) on [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) (3 weeks ago)
-- [feat: Add recursive traversal support for CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/160) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
+- [feat: Add recursive traversal support for CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/160) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
 
 ---
 
