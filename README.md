@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
 - [fix: Fix constructor not being called on nested array of objects](https://github.com/JsonMapper/JsonMapper/pull/164) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
 - [build: Set version constraint on guzzlehttp/psr7 to avoid CVE-2023-29197](https://github.com/fedeisas/laravel-mail-css-inliner/pull/307) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Correct typo in README.md.tpl](https://github.com/staabm/staabm/pull/2) on [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
 - [feat: Update of models based on online documentation retrieved at 2023-05-16](https://github.com/picqer/exact-php-client/pull/610) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [Update 2023-05-10-how-to-debug-slow-rector-projects.md](https://github.com/staabm/staabm.github.io/pull/77) on [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (3 weeks ago)
-- [fix: Support private properties from parent class in DocBlockAnnotations and TypedProperties](https://github.com/JsonMapper/JsonMapper/pull/161) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
 
 ---
 
