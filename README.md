@@ -17,15 +17,16 @@ If one of those open source projects is critical for your business, [please cons
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
+- [staabm/staabm](https://github.com/staabm/staabm) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
-- [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
+- [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (today)
 - [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
 - [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (1 day ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: Don&#39;t create dynamic property in Dispatcher](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/4) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [test: Proof @param ?string is supported in current setup](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/3) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/2) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/1) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 
 ---
 
