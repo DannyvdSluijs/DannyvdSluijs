@@ -26,6 +26,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (today)
+- [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
+- [Update ci.yaml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/webmozarts/assert/pull/287) on [webmozarts/assert](https://github.com/webmozarts/assert) (today)
+- [Update main.yml to use GitHub Actions V3](https://github.com/nikic/PHP-Parser/pull/926) on [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) (today)
+- [ci: Update to use GitHub Actions V3](https://github.com/Seldaek/monolog/pull/1812) on [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
+- [ci: Update to Actions V3](https://github.com/filamentphp/filament/pull/6761) on [filamentphp/filament](https://github.com/filamentphp/filament) (today)
 - [Update ci.yml to use actions/checkout@v3](https://github.com/msgpack/msgpack-php/pull/170) on [msgpack/msgpack-php](https://github.com/msgpack/msgpack-php) (today)
 - [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (today)
 - [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
@@ -35,12 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Fix constructor not being called on nested array of objects](https://github.com/JsonMapper/JsonMapper/pull/164) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [build: Set version constraint on guzzlehttp/psr7 to avoid CVE-2023-29197](https://github.com/fedeisas/laravel-mail-css-inliner/pull/307) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
-- [refactor: Move to blog only site](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/44) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
-- [ci: Add PHP 8.1 and 8.2 to build matrix](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/7) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/6) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [fix: Don&#39;t create dynamic property in Dispatcher](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/4) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [test: Proof @param ?string is supported in current setup](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/3) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 
 ---
 
