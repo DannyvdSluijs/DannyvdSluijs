@@ -20,9 +20,9 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (today)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
