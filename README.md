@@ -16,13 +16,13 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔭 Check out what I'm currently working on
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [staabm/staabm.github.io](https://github.com/staabm/staabm.github.io) (4 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
