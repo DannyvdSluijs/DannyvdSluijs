@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
@@ -26,6 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
+- [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (1 day ago)
 - [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 days ago)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
@@ -39,8 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [test: Proof @param ?string is supported in current setup](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/3) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/2) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/1) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [Correct typo in README.md.tpl](https://github.com/staabm/staabm/pull/2) on [staabm/staabm](https://github.com/staabm/staabm) (3 weeks ago)
-- [feat: Update of models based on online documentation retrieved at 2023-05-16](https://github.com/picqer/exact-php-client/pull/610) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 
 ---
 
