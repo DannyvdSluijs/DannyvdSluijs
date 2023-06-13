@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Update ci.yml to use actions/checkout@v3](https://github.com/msgpack/msgpack-php/pull/170) on [msgpack/msgpack-php](https://github.com/msgpack/msgpack-php) (today)
 - [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (today)
 - [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (today)
 - [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [test: Add test for additional provided parameters](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/5) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [fix: Don&#39;t create dynamic property in Dispatcher](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/4) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 - [test: Proof @param ?string is supported in current setup](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/3) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
-- [test: Add test to proof docblock is being used when type hint is array](https://github.com/DannyvdSluijs/php-advanced-json-rpc/pull/2) on [DannyvdSluijs/php-advanced-json-rpc](https://github.com/DannyvdSluijs/php-advanced-json-rpc) (3 weeks ago)
 
 ---
 
