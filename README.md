@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 day ago)
 - [staabm/staabm](https://github.com/staabm/staabm) (1 day ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [filamentphp/filament](https://github.com/filamentphp/filament) (1 day ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 day ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
