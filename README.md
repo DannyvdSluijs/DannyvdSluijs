@@ -15,14 +15,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
-- [staabm/staabm](https://github.com/staabm/staabm) (2 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
+- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (today)
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (2 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (2 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [staabm/staabm](https://github.com/staabm/staabm) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 
 ## 🔨 My recent Pull Requests
 
