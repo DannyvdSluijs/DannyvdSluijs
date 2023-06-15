@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (today)
 - [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (today)
 - [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 days ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (3 days ago)
 - [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [fix: Avoid integer keys being replaced in CaseConversion middleware](https://github.com/JsonMapper/JsonMapper/pull/166) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [fix: Fix constructor not being called on nested array of objects](https://github.com/JsonMapper/JsonMapper/pull/164) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 ---
 
