@@ -15,14 +15,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (1 day ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 day ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (1 day ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (3 days ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 days ago)
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (3 days ago)
-- [staabm/staabm](https://github.com/staabm/staabm) (3 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 days ago)
 
 ## 🔨 My recent Pull Requests
 
