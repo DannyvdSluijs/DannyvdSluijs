@@ -15,17 +15,19 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
+- [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (today)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (5 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
-- [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 week ago)
 
 ## 🔨 My recent Pull Requests
 
+- [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (today)
+- [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
 - [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
 - [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
 - [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (5 days ago)
@@ -39,8 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Update readme-scribe.yml to use checkout v3](https://github.com/staabm/staabm/pull/3) on [staabm/staabm](https://github.com/staabm/staabm) (1 week ago)
 - [ci: Update deprecated set-output command to use GITHUB environment files](https://github.com/EventSaucePHP/EventSauce/pull/214) on [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (1 week ago)
 - [Update GitHub actions workflow to use actions/checkout@v3](https://github.com/picqer/exact-php-client/pull/613) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [Update action.yml](https://github.com/thenabeel/action-phpcs/pull/3) on [thenabeel/action-phpcs](https://github.com/thenabeel/action-phpcs) (1 week ago)
-- [ci: Upgrade to actions/checkout@v3](https://github.com/JsonMapper/JsonMapper/pull/168) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 
 ---
 
