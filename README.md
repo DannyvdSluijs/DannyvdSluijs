@@ -15,13 +15,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (5 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
 - [filamentphp/filament](https://github.com/filamentphp/filament) (1 week ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
-- [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) (1 week ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 week ago)
 
 ## 🔨 My recent Pull Requests
