@@ -15,22 +15,22 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (today)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
-- [pdepend/pdepend](https://github.com/pdepend/pdepend) (today)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
-- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (5 days ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
+- [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (1 day ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 day ago)
+- [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 day ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [DannyvdSluijs/blog](https://github.com/DannyvdSluijs/blog) (6 days ago)
+- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (6 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
 
 ## 🔨 My recent Pull Requests
 
-- [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (today)
-- [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
-- [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (today)
-- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (5 days ago)
-- [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (5 days ago)
+- [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 day ago)
+- [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 day ago)
+- [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 day ago)
+- [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (6 days ago)
+- [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (6 days ago)
 - [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 week ago)
 - [Update ci.yml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/theseer/tokenizer/pull/16) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
 - [Update ci.yaml replacing GitHub Actions V2 (Deprecated) for V3](https://github.com/webmozarts/assert/pull/287) on [webmozarts/assert](https://github.com/webmozarts/assert) (1 week ago)
