@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (1 week ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 week ago)
