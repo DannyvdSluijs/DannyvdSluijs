@@ -15,14 +15,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
-- [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (2 weeks ago)
-- [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (3 weeks ago)
+- [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
