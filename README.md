@@ -16,13 +16,13 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔭 Check out what I'm currently working on
 
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 weeks ago)
 - [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (2 weeks ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 weeks ago)
-- [Seldaek/monolog](https://github.com/Seldaek/monolog) (2 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
