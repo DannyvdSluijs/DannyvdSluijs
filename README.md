@@ -21,7 +21,7 @@ If one of those open source projects is critical for your business, [please cons
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [pdepend/pdepend](https://github.com/pdepend/pdepend) (3 weeks ago)
-- [DannyvdSluijs/PhpParallelProcessing](https://github.com/DannyvdSluijs/PhpParallelProcessing) (3 weeks ago)
+- [Seldaek/monolog](https://github.com/Seldaek/monolog) (3 weeks ago)
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) (3 weeks ago)
 
 ## 🔨 My recent Pull Requests
