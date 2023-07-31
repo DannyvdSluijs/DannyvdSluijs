@@ -15,14 +15,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
-- [nikic/FastRoute](https://github.com/nikic/FastRoute) (6 days ago)
 - [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (6 days ago)
+- [nikic/FastRoute](https://github.com/nikic/FastRoute) (6 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
