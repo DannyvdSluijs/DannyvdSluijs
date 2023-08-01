@@ -15,24 +15,24 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
-- [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (6 days ago)
-- [nikic/FastRoute](https://github.com/nikic/FastRoute) (6 days ago)
+- [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 week ago)
+- [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
-- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
-- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (6 days ago)
-- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (6 days ago)
-- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (6 days ago)
-- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (6 days ago)
-- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (6 days ago)
-- [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (6 days ago)
+- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 week ago)
+- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 week ago)
+- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (1 week ago)
+- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (1 week ago)
+- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (1 week ago)
+- [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (1 week ago)
 - [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (1 month ago)
