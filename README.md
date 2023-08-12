@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (2 weeks ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Update to use GitHub Actions V3](https://github.com/phpmd/phpmd/pull/1012) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (1 month ago)
 - [Update ci-workflow.yml to use GitHub Actions V3](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards/pull/138) on [jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards](https://github.com/jeroenheijmans/sample-angular-oauth2-oidc-with-auth-guards) (1 month ago)
 - [Update downgraded_release.yaml to use GitHub actions v3](https://github.com/webservco/configuration/pull/1) on [webservco/configuration](https://github.com/webservco/configuration) (1 month ago)
-- [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
+- [Update set-subsplit-default-branch.yml replacing checkout@v2 for checkout@v3](https://github.com/thephpleague/flysystem/pull/1671) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 months ago)
 
 ---
 
