@@ -15,12 +15,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (6 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
-- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (1 week ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
+- [DannyvdSluijs/AoC-2015](https://github.com/DannyvdSluijs/AoC-2015) (2 weeks ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 weeks ago)
 - [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
