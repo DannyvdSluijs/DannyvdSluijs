@@ -15,10 +15,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (today)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 days ago)
+- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (1 day ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 week ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
@@ -26,9 +26,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 days ago)
-- [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 week ago)
-- [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 week ago)
+- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
+- [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
+- [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
 - [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/squizlabs/PHP_CodeSniffer/pull/3881) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (2 weeks ago)
 - [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (1 month ago)
