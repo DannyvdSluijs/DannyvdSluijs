@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (5 days ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (6 days ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (3 weeks ago)
@@ -39,8 +39,8 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Use GitHub Actions V3](https://github.com/deployteam/laravel-polytranslate/pull/2) on [deployteam/laravel-polytranslate](https://github.com/deployteam/laravel-polytranslate) (1 month ago)
 - [Update README.md with correct issue number for license information](https://github.com/infi-nl/the-infi-way/pull/75) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 - [feat: Update models based on documentation d.d. 2023-07-08](https://github.com/picqer/exact-php-client/pull/614) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (2 months ago)
-- [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (2 months ago)
+- [ci: Use GitHub Actions V3](https://github.com/pdepend/pdepend/pull/670) on [pdepend/pdepend](https://github.com/pdepend/pdepend) (3 months ago)
+- [ci: Include PHP 8.2 in Actions matrix](https://github.com/phpmd/phpmd/pull/1013) on [phpmd/phpmd](https://github.com/phpmd/phpmd) (3 months ago)
 
 ---
 
