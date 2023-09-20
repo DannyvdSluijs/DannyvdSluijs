@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (1 week ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 weeks ago)
 - [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (3 weeks ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
