@@ -16,13 +16,13 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔭 Check out what I'm currently working on
 
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (1 week ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 weeks ago)
 - [DannyvdSluijs/Laravel10MailCssInliner](https://github.com/DannyvdSluijs/Laravel10MailCssInliner) (3 weeks ago)
-- [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
