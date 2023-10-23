@@ -15,10 +15,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 weeks ago)
 - [DannyvdSluijs/JsonMapperDoctrineArrayCollection](https://github.com/DannyvdSluijs/JsonMapperDoctrineArrayCollection) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
@@ -35,12 +35,12 @@ If one of those open source projects is critical for your business, [please cons
 - [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 - [fix: Correct some profile and social links; Content corrections](https://github.com/infi-nl/con.infi.nl/pull/1) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
 - [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/squizlabs/PHP_CodeSniffer/pull/3881) on [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) (1 month ago)
-- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (2 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (2 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (2 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (2 months ago)
-- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (2 months ago)
+- [feat: Update models based on documentation d.d. 2023-07-25](https://github.com/picqer/exact-php-client/pull/615) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 months ago)
+- [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (3 months ago)
+- [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (3 months ago)
+- [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (3 months ago)
+- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (3 months ago)
+- [ci: Use GitHub Actions V3 due to Node12 deprecation](https://github.com/earthrobot/php-project-lvl1/pull/1) on [earthrobot/php-project-lvl1](https://github.com/earthrobot/php-project-lvl1) (3 months ago)
 
 ---
 
