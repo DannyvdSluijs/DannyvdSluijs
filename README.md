@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Use GitHub Actions V3](https://github.com/nikic/FastRoute/pull/257) on [nikic/FastRoute](https://github.com/nikic/FastRoute) (3 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/robrichards/xmlseclibs/pull/253) on [robrichards/xmlseclibs](https://github.com/robrichards/xmlseclibs) (3 months ago)
 - [ci: Use GitHub Actions V3](https://github.com/barryvdh/laravel-dompdf/pull/990) on [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) (3 months ago)
-- [ci: Use GitHub Actions V3](https://github.com/thephpleague/container/pull/252) on [thephpleague/container](https://github.com/thephpleague/container) (3 months ago)
 
 ---
 
