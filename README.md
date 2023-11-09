@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (2 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -28,7 +28,7 @@ If one of those open source projects is critical for your business, [please cons
 
 - [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Correct return type of `Generator::unique()`](https://github.com/FakerPHP/Faker/pull/787) on [FakerPHP/Faker](https://github.com/FakerPHP/Faker) (1 month ago)
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
