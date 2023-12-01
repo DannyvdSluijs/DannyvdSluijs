@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
-- [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (3 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
+- [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (4 days ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (1 week ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
@@ -26,10 +26,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
-- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
-- [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (3 days ago)
-- [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [Add mandatory field info](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/193) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (4 days ago)
+- [Merging develop into main](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/191) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (4 days ago)
+- [Correct status badge url as per needs](https://github.com/FakerPHP/fakerphp.github.io/pull/95) on [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (4 days ago)
+- [refactor: Add more native type hints](https://github.com/picqer/exact-php-client/pull/626) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [refactor: Introduce type hinting in Connection class](https://github.com/picqer/exact-php-client/pull/625) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Update client to docs d.d. 2023-10-10](https://github.com/picqer/exact-php-client/pull/622) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [Support public properties comments when using Constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/171) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
