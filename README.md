@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (4 days ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 week ago)
@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [build: Update workflow to use v5 of create pull request action](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/120) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
 - [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/128) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 day ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Create CODE_OF_CONDUCT.md](https://github.com/infi-nl/the-infi-way/pull/97) on [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 - [feat: Update api using documentation d.d. 2023-09-19](https://github.com/picqer/exact-php-client/pull/620) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/JsonMapper/JsonMapper/pull/170) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
-- [Add github-pages deploy workflow](https://github.com/infi-nl/con.infi.nl/pull/2) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
 
 ---
 
