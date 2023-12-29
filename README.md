@@ -15,22 +15,22 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 weeks ago)
-- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (3 weeks ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 weeks ago)
+- [DannyvdSluijs/AoC-2018](https://github.com/DannyvdSluijs/AoC-2018) (4 weeks ago)
 - [FakerPHP/fakerphp.github.io](https://github.com/FakerPHP/fakerphp.github.io) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
-- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
+- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
 - [Fix final callback no called after previous exception](https://github.com/JsonMapper/JsonMapper/pull/175) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [fix: Corrected master for main in workflows and docs](https://github.com/JsonMapper/JsonMapper/pull/174) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [feat: Bump to exact online meta data 2.0](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/122) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
-- [Update README.md to use latest major version](https://github.com/SimenB/github-actions-cpu-cores/pull/51) on [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 weeks ago)
+- [Update README.md to use latest major version](https://github.com/SimenB/github-actions-cpu-cores/pull/51) on [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (3 weeks ago)
 - [refactor: Require PHP 8.0](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/194) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [build: Update workflow to use v5 of create pull request action](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/120) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (3 weeks ago)
