@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
-- [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (5 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 week ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
@@ -26,8 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
-- [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (5 days ago)
+- [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (6 days ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 week ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (2 weeks ago)
 - [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (4 weeks ago)
