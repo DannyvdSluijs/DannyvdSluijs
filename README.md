@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
 - [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 day ago)
 - [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 week ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [build: Update workflow to use v5 of create pull request action](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/120) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [Correct spelling issues in contributing](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/130) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [Correct spelling issues in readme](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/129) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
-- [Correct pluralization of the word space/spaces depending on the spacing value](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/128) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 
 ---
 
