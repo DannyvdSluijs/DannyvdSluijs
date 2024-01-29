@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (2 weeks ago)
 - [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
