@@ -15,22 +15,22 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
+- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
-- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 week ago)
-- [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (2 weeks ago)
-- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (3 weeks ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
+- [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
+- [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (3 weeks ago)
+- [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (4 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
+- [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
-- [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (1 week ago)
+- [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
 - [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
-- [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (2 weeks ago)
+- [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (3 weeks ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (3 weeks ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
 - [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
