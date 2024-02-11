@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
@@ -26,7 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (5 days ago)
+- [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (6 days ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (2 weeks ago)
