@@ -15,10 +15,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (3 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (3 weeks ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (3 weeks ago)
 - [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (4 weeks ago)
@@ -26,12 +26,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (today)
+- [refactor: Remove dead block of code](https://github.com/justinrainbow/json-schema/pull/710) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 day ago)
 - [Addresses Content-Type mismatch on HTTP 301 Moved Permanently with FileGetContents](https://github.com/justinrainbow/json-schema/pull/709) on [justinrainbow/json-schema](https://github.com/justinrainbow/json-schema) (1 week ago)
 - [Correct phpunit.xml filename reference](https://github.com/TomasVotruba/tomasvotruba.com/pull/1452) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (2 weeks ago)
-- [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
+- [feat: Update to documentation d.d. 23-02-2024](https://github.com/picqer/exact-php-client/pull/635) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [Correct typo](https://github.com/Redocly/redocly-cli-cookbook/pull/26) on [Redocly/redocly-cli-cookbook](https://github.com/Redocly/redocly-cli-cookbook) (3 weeks ago)
-- [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
+- [Add initial values for type properties.](https://github.com/picqer/exact-php-client/pull/634) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (4 weeks ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 month ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
