@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
 - [docs: Update badges](https://github.com/JsonMapper/JsonMapper/pull/181) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
 - [ci: Remove dependabot workflow](https://github.com/JsonMapper/JsonMapper/pull/180) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
 - [docs: Tweak pull request template](https://github.com/JsonMapper/JsonMapper/pull/179) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Change Node.js runtime version from 12 to 20](https://github.com/r7kamura/redocly-problem-matchers/pull/1) on [r7kamura/redocly-problem-matchers](https://github.com/r7kamura/redocly-problem-matchers) (1 month ago)
 - [Correct parameter name](https://github.com/thephpleague/fractal/pull/566) on [thephpleague/fractal](https://github.com/thephpleague/fractal) (1 month ago)
 - [Add support for YouTrack in TodoByTicketRule](https://github.com/staabm/phpstan-todo-by/pull/51) on [staabm/phpstan-todo-by](https://github.com/staabm/phpstan-todo-by) (1 month ago)
-- [fix: Revert back to original phpcs](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/196) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
 
 ---
 
