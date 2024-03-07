@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (3 weeks ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
@@ -26,8 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (today)
-- [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
+- [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
 - [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [docs: Update badges](https://github.com/JsonMapper/JsonMapper/pull/181) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [ci: Remove dependabot workflow](https://github.com/JsonMapper/JsonMapper/pull/180) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
