@@ -17,12 +17,12 @@ If one of those open source projects is critical for your business, [please cons
 
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [thephpleague/container](https://github.com/thephpleague/container) (2 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 days ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (5 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 month ago)
 - [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
