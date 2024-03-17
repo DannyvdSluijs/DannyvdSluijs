@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (3 days ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 days ago)
@@ -22,10 +23,10 @@ If one of those open source projects is critical for your business, [please cons
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [SimenB/github-actions-cpu-cores](https://github.com/SimenB/github-actions-cpu-cores) (1 month ago)
-- [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
+- [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (today)
 - [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (3 days ago)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 days ago)
 - [Update GitHub Actions to V4](https://github.com/egulias/EmailValidator/pull/383) on [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (3 days ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Remove dependabot workflow](https://github.com/JsonMapper/JsonMapper/pull/180) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [docs: Tweak pull request template](https://github.com/JsonMapper/JsonMapper/pull/179) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [ci: Include PHP 8.3 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/178) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
-- [Remove dependabot](https://github.com/JsonMapper/JsonMapper/pull/177) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 
 ---
 
