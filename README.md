@@ -15,14 +15,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (today)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 day ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (5 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (5 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (5 days ago)
+- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (5 days ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
