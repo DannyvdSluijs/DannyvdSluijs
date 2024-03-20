@@ -18,9 +18,9 @@ If one of those open source projects is critical for your business, [please cons
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 day ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
-- [thephpleague/container](https://github.com/thephpleague/container) (6 days ago)
-- [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (6 days ago)
+- [theseer/tokenizer](https://github.com/theseer/tokenizer) (6 days ago)
+- [thephpleague/container](https://github.com/thephpleague/container) (6 days ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 
