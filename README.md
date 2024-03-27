@@ -22,7 +22,7 @@ If one of those open source projects is critical for your business, [please cons
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (1 week ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (1 week ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (2 weeks ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
