@@ -15,19 +15,19 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 weeks ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (2 weeks ago)
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (2 weeks ago)
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
-- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
-- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
+- [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 weeks ago)
 - [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (2 weeks ago)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (2 weeks ago)
@@ -35,7 +35,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Update to use actions/checkout@v4](https://github.com/theseer/tokenizer/pull/21) on [theseer/tokenizer](https://github.com/theseer/tokenizer) (2 weeks ago)
 - [Use Github Actions version 4](https://github.com/lingoda/cron-bundle/pull/6) on [lingoda/cron-bundle](https://github.com/lingoda/cron-bundle) (2 weeks ago)
 - [ci: Use GitHub Actions V4](https://github.com/thephpleague/container/pull/257) on [thephpleague/container](https://github.com/thephpleague/container) (2 weeks ago)
-- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (2 weeks ago)
+- [Update custom-providers.md parameter name scopes](https://github.com/lucia-auth/lucia/pull/1486) on [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (3 weeks ago)
 - [feat: Update to documentation d.d. 06-03-2024](https://github.com/picqer/exact-php-client/pull/638) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [refactor: Uses Github issue forms](https://github.com/JsonMapper/JsonMapper/pull/182) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [fix: Set Ouderschapsverlof as leave task as well](https://github.com/infi-nl/timechimp-billability-chart/pull/15) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
