@@ -19,9 +19,9 @@ If one of those open source projects is critical for your business, [please cons
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
+- [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) (3 weeks ago)
-- [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) (4 weeks ago)
 
 ## 🔨 My recent Pull Requests
