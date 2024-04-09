@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 days ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 days ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [thephpleague/container](https://github.com/thephpleague/container) (3 weeks ago)
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (3 weeks ago)
