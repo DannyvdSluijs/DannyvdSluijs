@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 week ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
@@ -26,11 +26,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (4 days ago)
-- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (6 days ago)
+- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (5 days ago)
+- [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
 - [#33: Add copy button to code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/38) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
-- [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (4 weeks ago)
+- [docs: Clarify enum is supported out of the box](https://github.com/JsonMapper/jsonmapper.github.io/pull/37) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [Update README.md replacing Travis badge for Github Actions](https://github.com/thephpleague/container/pull/258) on [thephpleague/container](https://github.com/thephpleague/container) (1 month ago)
 - [Node20 actions upgrade](https://github.com/thephpleague/flysystem/pull/1766) on [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
 - [Update GitHub Actions to V4](https://github.com/egulias/EmailValidator/pull/383) on [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (1 month ago)
