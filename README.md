@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (today)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 days ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
-- [thephpleague/flysystem](https://github.com/thephpleague/flysystem) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
