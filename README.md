@@ -22,7 +22,7 @@ If one of those open source projects is critical for your business, [please cons
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 weeks ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
