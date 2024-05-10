@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
 - [egulias/EmailValidator](https://github.com/egulias/EmailValidator) (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 week ago)
@@ -26,9 +26,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
-- [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (5 days ago)
-- [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (5 days ago)
+- [feat: Bump metadata tool for improved meta-data.json](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/146) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [fix: Avoid properties with a larger http method mask then the parent endpoint](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/207) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
+- [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [Feat: Add with mapping of associative array](https://github.com/JsonMapper/JsonMapper/pull/183) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [fix: Add missing &#39;.fixed&#39; file for src/Standards/PEAR/Tests/WhiteSpace/ScopeIndentUnitTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/476) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 week ago)
 - [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 week ago)
