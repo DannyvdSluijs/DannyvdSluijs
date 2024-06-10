@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
@@ -38,7 +38,7 @@ If one of those open source projects is critical for your business, [please cons
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
 - [refactor: Move metadata tool to require dev](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference/pull/143) on [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
-- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
+- [Fix GitHub actions](https://github.com/fedeisas/laravel-mail-css-inliner/pull/323) on [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (2 months ago)
 - [feat: Update to documentation d.d. 09-04-2024](https://github.com/picqer/exact-php-client/pull/642) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
 - [#32 Improve contrast of code examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/39) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 
