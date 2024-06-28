@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
@@ -33,7 +33,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Resolve nodejs16 deprecations messages](https://github.com/JsonMapper/JsonMapper/pull/186) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Feat: Add with mapping of associative array](https://github.com/JsonMapper/JsonMapper/pull/183) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [fix: Add missing &#39;.fixed&#39; file for src/Standards/PEAR/Tests/WhiteSpace/ScopeIndentUnitTest](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/476) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (1 month ago)
-- [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (1 month ago)
+- [docs: Correct Github with GitHub (with capital H) as it is a brand name](https://github.com/php-fig/fig-standards/pull/1323) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/php-fig/fig-standards/pull/1322) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
 - [docs: Correct semi-colon for semicolon (without dash)](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/464) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
 - [Correct typos and language](https://github.com/PHPCSStandards/PHP_CodeSniffer/pull/457) on [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) (2 months ago)
