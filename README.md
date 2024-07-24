@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 week ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -26,7 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [build: Update json-schema to v6 beta](https://github.com/DannyvdSluijs/infection/pull/1) on [DannyvdSluijs/infection](https://github.com/DannyvdSluijs/infection) (6 days ago)
+- [build: Update json-schema to v6 beta](https://github.com/DannyvdSluijs/infection/pull/1) on [DannyvdSluijs/infection](https://github.com/DannyvdSluijs/infection) (1 week ago)
 - [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-normalizer/pull/1) on [DannyvdSluijs/json-normalizer](https://github.com/DannyvdSluijs/json-normalizer) (1 week ago)
 - [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-schema-validator/pull/1) on [DannyvdSluijs/json-schema-validator](https://github.com/DannyvdSluijs/json-schema-validator) (1 week ago)
 - [build: Update to json-schema v6 beta](https://github.com/DannyvdSluijs/phpunit-json-assert/pull/1) on [DannyvdSluijs/phpunit-json-assert](https://github.com/DannyvdSluijs/phpunit-json-assert) (1 week ago)
