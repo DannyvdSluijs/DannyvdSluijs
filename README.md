@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Update to json schema v6](https://github.com/deployphp/deployer/pull/3860) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (3 weeks ago)
-- [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 
 ---
 
