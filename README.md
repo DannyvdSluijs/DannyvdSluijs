@@ -15,10 +15,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (2 weeks ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (3 weeks ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
@@ -26,20 +26,20 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (3 days ago)
-- [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (4 days ago)
+- [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/740) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [Drop support for PHP &lt;= 7.1 and explicit support for PHP &gt;= 8.0](https://github.com/jsonrainbow/json-schema/pull/739) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
 - [build: Update json-schema to v6 beta](https://github.com/DannyvdSluijs/infection/pull/1) on [DannyvdSluijs/infection](https://github.com/DannyvdSluijs/infection) (2 weeks ago)
-- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-normalizer/pull/1) on [DannyvdSluijs/json-normalizer](https://github.com/DannyvdSluijs/json-normalizer) (2 weeks ago)
-- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-schema-validator/pull/1) on [DannyvdSluijs/json-schema-validator](https://github.com/DannyvdSluijs/json-schema-validator) (2 weeks ago)
-- [build: Update to json-schema v6 beta](https://github.com/DannyvdSluijs/phpunit-json-assert/pull/1) on [DannyvdSluijs/phpunit-json-assert](https://github.com/DannyvdSluijs/phpunit-json-assert) (2 weeks ago)
-- [Update to json schema v6](https://github.com/deployphp/deployer/pull/3860) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
-- [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (2 weeks ago)
-- [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (2 weeks ago)
+- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-normalizer/pull/1) on [DannyvdSluijs/json-normalizer](https://github.com/DannyvdSluijs/json-normalizer) (3 weeks ago)
+- [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-schema-validator/pull/1) on [DannyvdSluijs/json-schema-validator](https://github.com/DannyvdSluijs/json-schema-validator) (3 weeks ago)
+- [build: Update to json-schema v6 beta](https://github.com/DannyvdSluijs/phpunit-json-assert/pull/1) on [DannyvdSluijs/phpunit-json-assert](https://github.com/DannyvdSluijs/phpunit-json-assert) (3 weeks ago)
+- [Update to json schema v6](https://github.com/deployphp/deployer/pull/3860) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
+- [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (3 weeks ago)
+- [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (3 weeks ago)
 - [feat: Upgrade to json-schema v6](https://github.com/composer/composer/pull/12039) on [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 
 ---
