@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [genkgo/camt](https://github.com/genkgo/camt) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (3 weeks ago)
