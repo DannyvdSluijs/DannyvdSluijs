@@ -26,6 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -39,8 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Update json schema v6 beta](https://github.com/DannyvdSluijs/json-schema-validator/pull/1) on [DannyvdSluijs/json-schema-validator](https://github.com/DannyvdSluijs/json-schema-validator) (1 month ago)
 - [build: Update to json-schema v6 beta](https://github.com/DannyvdSluijs/phpunit-json-assert/pull/1) on [DannyvdSluijs/phpunit-json-assert](https://github.com/DannyvdSluijs/phpunit-json-assert) (1 month ago)
 - [Update to json schema v6](https://github.com/deployphp/deployer/pull/3860) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
-- [Correct step name](https://github.com/deployphp/deployer/pull/3859) on [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
-- [Correct step name](https://github.com/DannyvdSluijs/deployer/pull/1) on [DannyvdSluijs/deployer](https://github.com/DannyvdSluijs/deployer) (1 month ago)
 
 ---
 
