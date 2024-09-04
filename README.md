@@ -15,11 +15,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (today)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 day ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (1 week ago)
-- [genkgo/camt](https://github.com/genkgo/camt) (4 weeks ago)
+- [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
@@ -29,7 +29,7 @@ If one of those open source projects is critical for your business, [please cons
 - [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
