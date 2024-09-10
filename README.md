@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
