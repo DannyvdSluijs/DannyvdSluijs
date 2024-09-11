@@ -21,8 +21,8 @@ If one of those open source projects is critical for your business, [please cons
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
-- [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 - [infi-nl/everybody-codes](https://github.com/infi-nl/everybody-codes) (1 month ago)
+- [deployphp/deployer](https://github.com/deployphp/deployer) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
