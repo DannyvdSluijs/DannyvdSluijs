@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
