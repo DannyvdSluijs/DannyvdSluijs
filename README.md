@@ -15,11 +15,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (6 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
-- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (2 weeks ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
+- [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (3 weeks ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (4 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 - [deployphp/deployer](https://github.com/deployphp/deployer) (2 months ago)
@@ -27,10 +27,10 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔨 My recent Pull Requests
 
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
-- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
-- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
+- [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
+- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/746) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
