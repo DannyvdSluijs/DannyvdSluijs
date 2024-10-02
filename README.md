@@ -21,8 +21,8 @@ If one of those open source projects is critical for your business, [please cons
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (4 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (1 month ago)
-- [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
