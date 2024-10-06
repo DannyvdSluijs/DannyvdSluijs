@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 - [DannyvdSluijs/AoC-2023](https://github.com/DannyvdSluijs/AoC-2023) (1 month ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [DannyvdSluijs/ProjectEuler](https://github.com/DannyvdSluijs/ProjectEuler) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
