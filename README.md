@@ -15,13 +15,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [webmozarts/assert](https://github.com/webmozarts/assert) (today)
-- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (4 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (1 day ago)
+- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (4 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 
 ## 🔨 My recent Pull Requests
