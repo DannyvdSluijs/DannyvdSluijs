@@ -15,9 +15,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (5 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) (1 week ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
@@ -27,7 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔨 My recent Pull Requests
 
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
-- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (2 weeks ago)
+- [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (3 weeks ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
-- [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
+- [Correct misconfigured mocks in JsonSchema\Tests\Uri\UriRetrieverTest ](https://github.com/jsonrainbow/json-schema/pull/741) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 
 ---
 
