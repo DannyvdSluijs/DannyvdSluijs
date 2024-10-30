@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) (2 weeks ago)
@@ -26,7 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 day ago)
+- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (3 weeks ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [test: Correct casing of paths used in tests](https://github.com/jsonrainbow/json-schema/pull/745) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Extend pipeline for newer versions php](https://github.com/jsonrainbow/json-schema/pull/744) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Add missing property in uri resolver test](https://github.com/jsonrainbow/json-schema/pull/743) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
+- [feat: Add FWAV, INFO, ITAV, ITBD and XPCD balance types](https://github.com/genkgo/camt/pull/157) on [genkgo/camt](https://github.com/genkgo/camt) (3 months ago)
 
 ---
 
