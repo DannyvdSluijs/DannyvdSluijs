@@ -21,7 +21,7 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (3 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [webmozarts/assert](https://github.com/webmozarts/assert) (4 weeks ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 
 ## 🔨 My recent Pull Requests
