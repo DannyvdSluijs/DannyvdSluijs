@@ -15,32 +15,32 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [DannyvdSluijs/AoC-2016](https://github.com/DannyvdSluijs/AoC-2016) (1 month ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [build: update symfony to 6.4 lts](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/213) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
-- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
+- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
 - [refactor: add declare strict_types to all classes in ./src](https://github.com/jsonrainbow/json-schema/pull/758) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Update README.md correct images paths](https://github.com/xirixiz/homeassistant-afvalwijzer/pull/320) on [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 month ago)
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
-- [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
+- [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
-- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
-- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
+- [feat: Update based on documentation d.d. 2024-08-27](https://github.com/picqer/exact-php-client/pull/656) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 months ago)
+- [Add return types to test suite](https://github.com/jsonrainbow/json-schema/pull/748) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
+- [refactor: Replace traditional syntax array with short syntax array](https://github.com/jsonrainbow/json-schema/pull/747) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 
 ---
 
