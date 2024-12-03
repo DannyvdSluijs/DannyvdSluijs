@@ -15,6 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (today)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (4 days ago)
@@ -22,7 +23,6 @@ If one of those open source projects is critical for your business, [please cons
 - [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (4 weeks ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
