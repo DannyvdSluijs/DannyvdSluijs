@@ -15,12 +15,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 days ago)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (4 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (4 days ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
 - [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 week ago)
-- [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
+- [genkgo/camt](https://github.com/genkgo/camt) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 
@@ -28,7 +28,7 @@ If one of those open source projects is critical for your business, [please cons
 
 - [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 week ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
-- [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (1 week ago)
+- [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (2 weeks ago)
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [refactor: add visibility modifiers to class constants](https://github.com/jsonrainbow/json-schema/pull/757) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Update functionMap.php for SplFileInfo::getPathInfo return type](https://github.com/phpstan/phpstan-src/pull/3487) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Resolve deprecations: Optional parameter $... declared before required parameter $...](https://github.com/jsonrainbow/json-schema/pull/752) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
+- [Add PHP justinrainbow/json-schema implementation](https://github.com/bowtie-json-schema/bowtie/pull/1512) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
 
 ---
 
