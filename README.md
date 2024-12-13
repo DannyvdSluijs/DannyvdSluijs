@@ -18,7 +18,7 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (today)
 - [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 week ago)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 weeks ago)
 - [umulmrum/holiday](https://github.com/umulmrum/holiday) (2 weeks ago)
 - [genkgo/camt](https://github.com/genkgo/camt) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
