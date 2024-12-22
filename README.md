@@ -15,7 +15,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (4 days ago)
+- [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (5 days ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 week ago)
 - [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
@@ -29,7 +29,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (3 weeks ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (3 weeks ago)
-- [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
+- [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
