@@ -15,21 +15,21 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 days ago)
+- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (4 days ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (2 weeks ago)
-- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (4 weeks ago)
+- [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 month ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 days ago)
-- [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
-- [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 days ago)
+- [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 days ago)
+- [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
+- [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 days ago)
 - [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 month ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (1 month ago)
