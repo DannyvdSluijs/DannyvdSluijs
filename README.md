@@ -15,18 +15,18 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
-- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 week ago)
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (2 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (3 weeks ago)
 - [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [docs: add contribution and contributor information](https://github.com/jsonrainbow/json-schema/pull/771) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [docs: add contribution and contributor information](https://github.com/jsonrainbow/json-schema/pull/771) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
