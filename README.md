@@ -32,7 +32,7 @@ If one of those open source projects is critical for your business, [please cons
 - [feat: Update based on documentation d.d. 2024-12-31](https://github.com/picqer/exact-php-client/pull/663) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [feat: Bump mayor version for PHP, Symfony and PHPUnit](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/223) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
 - [fix: Resolve scope within try-catch](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/221) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (3 weeks ago)
-- [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (1 month ago)
+- [Enable PHP 8.4 in test matrix](https://github.com/umulmrum/holiday/pull/53) on [umulmrum/holiday](https://github.com/umulmrum/holiday) (2 months ago)
 - [ci: add php 8.4 to build matrix](https://github.com/JsonMapper/JsonMapper/pull/187) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Add PHP 8.4 to build matrix](https://github.com/genkgo/camt/pull/162) on [genkgo/camt](https://github.com/genkgo/camt) (2 months ago)
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [build: update symfony to 6.4 lts](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/213) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (2 months ago)
-- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
+- [feat: Update based on documentation d.d. 2024-10-28](https://github.com/picqer/exact-php-client/pull/661) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 months ago)
 
 ---
 
