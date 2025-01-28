@@ -50,5 +50,10 @@ see [all my recent activities](https://DannyvdSluijs.github.io/recent-work.html)
 ## 📫 How to reach me
 
 <p align="center">
-    <a href="https://twitter.com/EchteDanny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@EchteDanny at twitter" height="30" width="30" /></a>
+    <a href="https://twitter.com/EchteDanny" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" alt="@EchteDanny at Twitter" height="30" width="30" />
+    </a>
+    <a href="https://bsky.app/profile/echtedanny.bsky.social" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bluesky.svg" alt="@EchteDanny at Bluesky" height="30" width="30" />
+    </a>
 </p>
