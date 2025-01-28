@@ -17,9 +17,9 @@ If one of those open source projects is critical for your business, [please cons
 
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (4 weeks ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (4 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (4 weeks ago)
 - [xirixiz/homeassistant-afvalwijzer](https://github.com/xirixiz/homeassistant-afvalwijzer) (1 month ago)
 - [DannyvdSluijs/AoC-2017](https://github.com/DannyvdSluijs/AoC-2017) (1 month ago)
@@ -50,10 +50,5 @@ see [all my recent activities](https://DannyvdSluijs.github.io/recent-work.html)
 ## 📫 How to reach me
 
 <p align="center">
-    <a href="https://twitter.com/EchteDanny" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" alt="@EchteDanny at Twitter" height="30" width="30" />
-    </a>
-    <a href="https://bsky.app/profile/echtedanny.bsky.social" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bluesky.svg" alt="@EchteDanny at Bluesky" height="30" width="30" />
-    </a>
+    <a href="https://twitter.com/EchteDanny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@EchteDanny at twitter" height="30" width="30" /></a>
 </p>
