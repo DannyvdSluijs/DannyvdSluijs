@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
@@ -26,6 +26,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [Add dark mode logo](https://github.com/JsonMapper/JsonMapper/pull/188) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
@@ -40,7 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [refactor: Cleanup test from @param annotations](https://github.com/jsonrainbow/json-schema/pull/768) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Raise minimum level php enum](https://github.com/jsonrainbow/json-schema/pull/766) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [build: include php 8.4 in workflow](https://github.com/jsonrainbow/json-schema/pull/765) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [fix: correct phpstan baseline](https://github.com/jsonrainbow/json-schema/pull/764) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 
 ---
 
