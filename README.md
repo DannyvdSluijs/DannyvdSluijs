@@ -15,8 +15,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 month ago)
@@ -26,8 +26,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [Add dark mode logo](https://github.com/JsonMapper/JsonMapper/pull/188) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [docs: add contribution and contributor information](https://github.com/jsonrainbow/json-schema/pull/771) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Remove old grease monkey script as it no longer being used](https://github.com/picqer/exact-php-client/pull/665) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
