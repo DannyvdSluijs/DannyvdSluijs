@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔭 Check out what I'm currently working on
 
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (today)
-- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
 - [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
+- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
