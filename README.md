@@ -15,10 +15,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (today)
-- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (today)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
+- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
@@ -26,11 +26,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (today)
-- [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (today)
-- [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (1 day ago)
-- [fix: Upgrade php cs fixer to latest](https://github.com/jsonrainbow/json-schema/pull/783) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: correct cname file](https://github.com/DannyvdSluijs/well-known-files/pull/2) on [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (1 day ago)
+- [Update to feature complete](https://github.com/DannyvdSluijs/letter-find/pull/1) on [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (1 day ago)
+- [ci: add welcome workflow](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/2) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
+- [fix: Upgrade php cs fixer to latest](https://github.com/jsonrainbow/json-schema/pull/783) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [feat: welcome first time contributors](https://github.com/jsonrainbow/json-schema/pull/782) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
