@@ -16,16 +16,18 @@ If one of those open source projects is critical for your business, [please cons
 ## 🔭 Check out what I'm currently working on
 
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
-- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (4 days ago)
 - [DannyvdSluijs/well-known-files](https://github.com/DannyvdSluijs/well-known-files) (4 days ago)
-- [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (5 days ago)
+- [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (4 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 
 ## 🔨 My recent Pull Requests
 
+- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/7) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (today)
+- [ci: try with workflow permissions](https://github.com/DannyvdSluijs/OpenSourceArmy/pull/4) on [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (today)
 - [ci: extend workflow matrix to include php 8.2, 8.3 and 8.4](https://github.com/JsonMapper/LaravelPackage/pull/24) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-2/pull/1) on [hyde-staging/github-action-test-project-2](https://github.com/hyde-staging/github-action-test-project-2) (today)
 - [fix: resolve error due to actions/download-artifact: v3 deprecation](https://github.com/hyde-staging/github-action-test-project-1/pull/1) on [hyde-staging/github-action-test-project-1](https://github.com/hyde-staging/github-action-test-project-1) (today)
@@ -39,8 +41,6 @@ If one of those open source projects is critical for your business, [please cons
 - [build: Move from dev-master to 6.1 version](https://github.com/bowtie-json-schema/bowtie/pull/1812) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Update scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/191) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Create scorecard.yml](https://github.com/JsonMapper/JsonMapper/pull/190) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [Add dark mode logo](https://github.com/JsonMapper/JsonMapper/pull/188) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
-- [docs: add contribution and contributor information](https://github.com/jsonrainbow/json-schema/pull/771) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 
 ---
 
