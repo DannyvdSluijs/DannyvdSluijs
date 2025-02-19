@@ -16,10 +16,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (today)
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
+- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 - [DannyvdSluijs/letter-find](https://github.com/DannyvdSluijs/letter-find) (6 days ago)
@@ -50,18 +50,17 @@ see [all my recent activities](https://DannyvdSluijs.github.io/recent-work.html)
 
 ## 📫 How to reach me
 
-<p style="text-align: center;">
-    <a href="https://twitter.com/EchteDanny" target="blank">
+<p align="center">
+    <a href="https://x.com/EchteDanny" target="blank">
         <picture>
             <source media="(prefers-color-scheme: dark)"
-                srcset="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-white.png"
-                width="50" height="50"
+                    srcset="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-white.png"
+                    width="50" height="50"
             >
-            <img alt="JsonMapper logo" 
-                src="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-dark.png"
-                width="50" height="50"
+            <img alt="X.com logo"
+                 src="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-black.png"
+                 width="50" height="50"
             >
         </picture>
     </a>
 </p>
-
