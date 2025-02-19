@@ -16,14 +16,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (today)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (today)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
 - [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (today)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (today)
+- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (today)
 - [DannyvdSluijs/exact-online-api-client-dev-tools](https://github.com/DannyvdSluijs/exact-online-api-client-dev-tools) (today)
 - [DannyvdSluijs/OpenSourceArmy](https://github.com/DannyvdSluijs/OpenSourceArmy) (2 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (5 days ago)
 
 ## 🔨 My recent Pull Requests
 
