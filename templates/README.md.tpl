@@ -19,6 +19,7 @@ My name is Danny van der Sluijs, and I am a Technical Lead at [Infi](https://www
 
 To help out with the open source community there are some project I contribute to and/or manage:
 - [JsonMapper](https://github.com/JsonMapper/JsonMapper)
+- [JSON Schema for PHP](https://github.com/jsonrainbow/json-schema)
 - [Exact PHP Client](https://github.com/picqer/exact-php-client)
 - [Laravel Mail CSS Inliner](https://github.com/fedeisas/laravel-mail-css-inliner)
 
