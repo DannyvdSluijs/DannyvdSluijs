@@ -45,5 +45,16 @@ see [all my recent activities](https://DannyvdSluijs.github.io/recent-work.html)
 ## 📫 How to reach me
 
 <p align="center">
-    <a href="https://twitter.com/EchteDanny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@EchteDanny at twitter" height="30" width="30" /></a>
+    <a href="https://x.com/EchteDanny" target="blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                    srcset="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-white.png"
+                    width="50" height="50"
+            >
+            <img alt="X.com logo"
+                 src="https://raw.githubusercontent.com/DannyvdSluijs/DannyvdSluijs/refs/heads/main/img/logo-black.png"
+                 width="50" height="50"
+            >
+        </picture>
+    </a>
 </p>
