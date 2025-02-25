@@ -16,14 +16,14 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
-- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (5 days ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (5 days ago)
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (6 days ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (5 days ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (6 days ago)
 - [DannyvdSluijs/exact-online-api-client-dev-tools](https://github.com/DannyvdSluijs/exact-online-api-client-dev-tools) (6 days ago)
 - [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (6 days ago)
-- [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (6 days ago)
+- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (6 days ago)
 
 ## 🔨 My recent Pull Requests
 
