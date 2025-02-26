@@ -27,6 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: disallow failure on php 8.4 latest](https://github.com/DannyvdSluijs/exact-online-meta-data-tool/pull/224) on [DannyvdSluijs/exact-online-meta-data-tool](https://github.com/DannyvdSluijs/exact-online-meta-data-tool) (1 week ago)
 - [ci: migrate from travis ci to github ci](https://github.com/JsonMapper/EloquentMiddleware/pull/8) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
 - [docs: show white based logo when in dark mode](https://github.com/JsonMapper/EloquentMiddleware/pull/7) on [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
-- [docs: show white based logo when in dark mode](https://github.com/JsonMapper/SymfonyBundle/pull/9) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 
 ---
 
