@@ -16,10 +16,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
-- [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (6 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
+- [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 week ago)
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 week ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 week ago)
 - [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (1 week ago)
@@ -27,13 +27,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
-- [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (6 days ago)
+- [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [Correctly set the schema ID when passing it as assoc array](https://github.com/jsonrainbow/json-schema/pull/794) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 week ago)
 - [fix: add required permissions for welcome action](https://github.com/jsonrainbow/json-schema/pull/789) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Correct pugx badges](https://github.com/myclabs/php-enum/pull/178) on [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 week ago)
 - [Add PHPStan](https://github.com/picqer/exact-php-client/pull/672) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
