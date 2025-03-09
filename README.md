@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 week ago)
@@ -27,11 +27,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [fix: replace filter_var for uri and uri-reference to userland code to be RFC 3986 compliant](https://github.com/jsonrainbow/json-schema/pull/800) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
-- [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 days ago)
+- [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: replace filter_var for uri and uri-reference to userland code to be RFC 3986 compliant](https://github.com/jsonrainbow/json-schema/pull/800) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
+- [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (5 days ago)
 - [feat: include actual count in collection constraint errors](https://github.com/jsonrainbow/json-schema/pull/797) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [refactor: cleanup redundant checks](https://github.com/jsonrainbow/json-schema/pull/796) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: create deep copy before checking each sub schema in oneOf when only check_mode_apply_defaults is set](https://github.com/jsonrainbow/json-schema/pull/795) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
