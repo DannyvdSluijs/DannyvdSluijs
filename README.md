@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
@@ -27,8 +27,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [fix: ensure numeric issues in const are correctly evaluated](https://github.com/jsonrainbow/json-schema/pull/805) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [ci: Reduce duplicate workflow runs](https://github.com/jsonrainbow/json-schema/pull/804) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [fix: ensure numeric issues in const are correctly evaluated](https://github.com/jsonrainbow/json-schema/pull/805) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [ci: Reduce duplicate workflow runs](https://github.com/jsonrainbow/json-schema/pull/804) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
