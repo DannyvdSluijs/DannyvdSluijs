@@ -27,6 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Correct PHPStan findings in validator](https://github.com/jsonrainbow/json-schema/pull/808) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: ensure numeric issues in const are correctly evaluated](https://github.com/jsonrainbow/json-schema/pull/805) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [ci: Reduce duplicate workflow runs](https://github.com/jsonrainbow/json-schema/pull/804) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: Create deep copy before checking each sub schema in anyOf](https://github.com/jsonrainbow/json-schema/pull/792) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Create deep copy before checking each sub schema in oneOf](https://github.com/jsonrainbow/json-schema/pull/791) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Update ref.markdown](https://github.com/sourcemeta/learnjsonschema.com/pull/283) on [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (3 weeks ago)
-- [fix: add required permissions for welcome action](https://github.com/jsonrainbow/json-schema/pull/789) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 ---
 
