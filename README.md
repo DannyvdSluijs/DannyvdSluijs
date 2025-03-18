@@ -21,9 +21,9 @@ If one of those open source projects is critical for your business, [please cons
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (3 weeks ago)
-- [myclabs/php-enum](https://github.com/myclabs/php-enum) (3 weeks ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (3 weeks ago)
-- [JsonMapper/EloquentMiddleware](https://github.com/JsonMapper/EloquentMiddleware) (3 weeks ago)
+- [myclabs/php-enum](https://github.com/myclabs/php-enum) (3 weeks ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 weeks ago)
 
 ## 🔨 My recent Pull Requests
 
