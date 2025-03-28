@@ -23,10 +23,11 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
-- [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
+- [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
+- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 day ago)
 - [Fix version displayed for PHP JustinRainbow Json-Schema](https://github.com/bowtie-json-schema/bowtie/pull/1917) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 day ago)
 - [build: include composer.lock file to enable dependabot](https://github.com/bowtie-json-schema/bowtie/pull/1913) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: replace filter_var for uri and uri-reference to userland code to be RFC 3986 compliant](https://github.com/jsonrainbow/json-schema/pull/800) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [Deprecate duplicate units class](https://github.com/picqer/exact-php-client/pull/675) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
 
 ---
 
