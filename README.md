@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
@@ -27,6 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
 - [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (4 days ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Reduce duplicate workflow runs](https://github.com/jsonrainbow/json-schema/pull/804) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [refactor: replace icecave/parity with custom deep comparator](https://github.com/jsonrainbow/json-schema/pull/803) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: only check minProperties or maxProperties on objects](https://github.com/jsonrainbow/json-schema/pull/802) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: allow items: true to pass validation](https://github.com/jsonrainbow/json-schema/pull/801) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 ---
 
