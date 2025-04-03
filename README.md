@@ -16,11 +16,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
