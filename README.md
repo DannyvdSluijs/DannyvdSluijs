@@ -16,24 +16,24 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (4 weeks ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 weeks ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 - [fedeisas/laravel-mail-css-inliner](https://github.com/fedeisas/laravel-mail-css-inliner) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 days ago)
-- [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (5 days ago)
-- [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
-- [Fix version displayed for PHP JustinRainbow Json-Schema](https://github.com/bowtie-json-schema/bowtie/pull/1917) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 days ago)
+- [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (6 days ago)
+- [fix: fixes a missing new line before the h3 and wrap schema in a codefence in bowtie summary command](https://github.com/bowtie-json-schema/bowtie/pull/1918) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
+- [Fix version displayed for PHP JustinRainbow Json-Schema](https://github.com/bowtie-json-schema/bowtie/pull/1917) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [build: include composer.lock file to enable dependabot](https://github.com/bowtie-json-schema/bowtie/pull/1913) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [Use parallel-lint and cs2pr for improved feedback on linting errors](https://github.com/jsonrainbow/json-schema/pull/812) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Run PHPStan using the lowest and highest php version](https://github.com/jsonrainbow/json-schema/pull/811) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
