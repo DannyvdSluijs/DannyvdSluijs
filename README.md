@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 day ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (4 days ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
