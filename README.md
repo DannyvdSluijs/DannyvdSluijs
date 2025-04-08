@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -23,11 +24,10 @@ If one of those open source projects is critical for your business, [please cons
 - [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
-- [myclabs/php-enum](https://github.com/myclabs/php-enum) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [Add list and array gtlt support in dockblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
