@@ -16,19 +16,19 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
-- [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
+- [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (3 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
 - [sourcemeta/learnjsonschema.com](https://github.com/sourcemeta/learnjsonschema.com) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 days ago)
 - [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
@@ -40,7 +40,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Use parallel-lint and cs2pr for improved feedback on linting errors](https://github.com/jsonrainbow/json-schema/pull/812) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Run PHPStan using the lowest and highest php version](https://github.com/jsonrainbow/json-schema/pull/811) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [Add deprecations on incorrect class names](https://github.com/picqer/exact-php-client/pull/678) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
-- [fix: replace google api charts with quick chart](https://github.com/joindin/joindin-web2/pull/927) on [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (2 weeks ago)
+- [fix: replace google api charts with quick chart](https://github.com/joindin/joindin-web2/pull/927) on [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (3 weeks ago)
 - [Correct PHPStan findings in validator](https://github.com/jsonrainbow/json-schema/pull/808) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 
 ---
