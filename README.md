@@ -16,17 +16,18 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (6 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
-- [joindin/joindin-web2](https://github.com/joindin/joindin-web2) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
+- [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
 - [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (4 days ago)
 - [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
 - [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [fix: correctly set passed schema and all schemas from registry](https://github.com/bowtie-json-schema/bowtie/pull/1927) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 - [fix: Array with number values with mathematical equality are considered valid](https://github.com/jsonrainbow/json-schema/pull/813) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: correct version in lock file; bump minimum minor version](https://github.com/bowtie-json-schema/bowtie/pull/1921) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
 
 ---
 
