@@ -16,25 +16,25 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
-- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (6 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 day ago)
+- [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (1 week ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (today)
-- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (4 days ago)
-- [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
-- [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
-- [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
-- [Fix workflow badge, tweak stable and unstable badges](https://github.com/phpDocumentor/ReflectionDocBlock/pull/410) on [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (6 days ago)
+- [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 day ago)
+- [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (5 days ago)
+- [feat: replace docblock type parsing with reflection docblock library](https://github.com/JsonMapper/JsonMapper/pull/199) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [Chore: Consolidate docblock functions](https://github.com/JsonMapper/JsonMapper/pull/198) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [refactor: raise minimum php level](https://github.com/JsonMapper/JsonMapper/pull/197) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [Fix workflow badge, tweak stable and unstable badges](https://github.com/phpDocumentor/ReflectionDocBlock/pull/410) on [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (1 week ago)
 - [Small fixes](https://github.com/bowtie-json-schema/bowtie/pull/1958) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
-- [Fix objects are non unique despite key order](https://github.com/jsonrainbow/json-schema/pull/819) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [Fix objects are non unique despite key order](https://github.com/jsonrainbow/json-schema/pull/819) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
