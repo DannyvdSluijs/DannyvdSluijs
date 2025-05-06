@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (2 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
@@ -27,7 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 days ago)
 - [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 week ago)
 - [Correct documentation reference](https://github.com/phpDocumentor/TypeResolver/pull/216) on [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (2 weeks ago)
@@ -38,7 +38,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Small fixes](https://github.com/bowtie-json-schema/bowtie/pull/1958) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [Fix objects are non unique despite key order](https://github.com/jsonrainbow/json-schema/pull/819) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [feat: update to latest details from documentation; Resolve type issues from phpstan baseline](https://github.com/picqer/exact-php-client/pull/680) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 weeks ago)
-- [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
+- [feat: support list&lt;t&gt; and array&lt;TKey, TValue&gt; in constructor middleware](https://github.com/JsonMapper/JsonMapper/pull/194) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
 - [Add list and array&lt;&gt; support in docblocks](https://github.com/JsonMapper/JsonMapper/pull/193) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 weeks ago)
 - [ci: prepare PHP 8.5 in CI](https://github.com/jsonrainbow/json-schema/pull/815) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [ci: Add cs2pr handling for php-cs-fixer; avoid doing composer install](https://github.com/jsonrainbow/json-schema/pull/814) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
