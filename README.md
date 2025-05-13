@@ -16,10 +16,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (4 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (3 weeks ago)
 - [phpDocumentor/ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) (3 weeks ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
@@ -27,11 +27,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
-- [Update to new time registration form](https://github.com/infi-nl/timechimp-billability-chart/pull/24) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 days ago)
-- [refactor: update BaseConstraint.php to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/826) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (5 days ago)
-- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
-- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
+- [Update to new time registration form](https://github.com/infi-nl/timechimp-billability-chart/pull/24) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (4 days ago)
+- [refactor: update BaseConstraint.php to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/826) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (6 days ago)
+- [ci: add 32-bits ci workflow](https://github.com/jsonrainbow/json-schema/pull/825) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [Update constraint class to PHP 7.2 language level](https://github.com/jsonrainbow/json-schema/pull/824) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: update to latest json schema test suite](https://github.com/jsonrainbow/json-schema/pull/821) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Feature: Add release workflow to create release once tag is pushed](https://github.com/infi-nl/timechimp-billability-chart/pull/23) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
 - [Re-render chart on update and deletion of time entries](https://github.com/infi-nl/timechimp-billability-chart/pull/22) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 weeks ago)
