@@ -18,7 +18,7 @@ If one of those open source projects is critical for your business, [please cons
 
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
