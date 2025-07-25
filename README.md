@@ -18,10 +18,10 @@ If one of those open source projects is critical for your business, [please cons
 
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
-- [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 weeks ago)
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [phpDocumentor/TypeResolver](https://github.com/phpDocumentor/TypeResolver) (3 months ago)
 
@@ -29,12 +29,12 @@ If one of those open source projects is critical for your business, [please cons
 
 - [Allow `psr/http-message` v2 to increase compatibility with other packages](https://github.com/MyParcelCOM/api-sdk-php/pull/246) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 week ago)
 - [build: update framework and commonmark](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/53) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
-- [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
+- [feat: add proof-of-concept implementation for strict fully validating using draft-06 schema](https://github.com/jsonrainbow/json-schema/pull/835) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Upgrade test suite to use generators](https://github.com/jsonrainbow/json-schema/pull/834) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [feat: CI-200 - Document shipment options for GLS](https://github.com/myparcelnl/developer/pull/156) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [refactor: Update test case to current (PHP) standards](https://github.com/jsonrainbow/json-schema/pull/831) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [docs: CI-200 - Update 04.data-types.md](https://github.com/myparcelnl/developer/pull/154) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
-- [Nullable union property with null value cannot be mapped](https://github.com/JsonMapper/JsonMapper/pull/200) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
+- [Nullable union property with null value cannot be mapped](https://github.com/JsonMapper/JsonMapper/pull/200) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [Fix #827](https://github.com/jsonrainbow/json-schema/pull/828) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [fix: Correct the firefox zip file](https://github.com/infi-nl/timechimp-billability-chart/pull/27) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 - [docs: prepare for release of v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/pull/25) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
