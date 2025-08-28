@@ -16,12 +16,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (today)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (6 days ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 months ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
 
