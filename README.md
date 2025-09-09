@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
@@ -41,7 +41,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Fix #827](https://github.com/jsonrainbow/json-schema/pull/828) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [fix: Correct the firefox zip file](https://github.com/infi-nl/timechimp-billability-chart/pull/27) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
 - [docs: prepare for release of v2.0.0](https://github.com/infi-nl/timechimp-billability-chart/pull/25) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
-- [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 months ago)
+- [feat: add GLS custom contract page](https://github.com/myparcelnl/developer/pull/153) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (4 months ago)
 
 ---
 
