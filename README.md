@@ -2,7 +2,7 @@
 
 
 
-My name is Danny van der Sluijs, and I am a Technical Lead at [Infi](https://www.infi.nl) and Maintainer of [JSON Schema for PHP](https://github.com/jsonrainbow/json-schema) and [JsonMapper](https://jsonmapper.net) who likes contributing to open source ✨.
+My name is Danny van der Sluijs, and I am a Technical Lead at [Infi](https://www.infi.nl) and Maintainer of [JsonMapper](https://jsonmapper.net) who likes contributing to open source ✨.
 
 To help out with the open source community there are some project I contribute to and/or manage:
 - [JsonMapper](https://github.com/JsonMapper/JsonMapper)
@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (3 days ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
