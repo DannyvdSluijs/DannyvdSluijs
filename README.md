@@ -40,8 +40,8 @@ If one of those open source projects is critical for your business, [please cons
 - [Add php justin rainbow json schema draft 6 support](https://github.com/bowtie-json-schema/bowtie/pull/2234) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
 - [feat: CI-344 - Add Trunkrs and BRT custom contract pages](https://github.com/myparcelnl/developer/pull/171) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (3 months ago)
 - [docs: Document how custom error messages is being handled](https://github.com/jsonrainbow/docs/pull/8) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 months ago)
-- [docs: Add documentation on how to use strict mode](https://github.com/jsonrainbow/docs/pull/1) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 months ago)
-- [ci: Add PHP 8.5 to pipeline, ignoring dependencies and as experimental](https://github.com/jsonrainbow/json-schema/pull/842) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
+- [docs: Add documentation on how to use strict mode](https://github.com/jsonrainbow/docs/pull/1) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (4 months ago)
+- [ci: Add PHP 8.5 to pipeline, ignoring dependencies and as experimental](https://github.com/jsonrainbow/json-schema/pull/842) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 months ago)
 
 ---
 
