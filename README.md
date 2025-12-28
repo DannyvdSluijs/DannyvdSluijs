@@ -22,7 +22,7 @@ If one of those open source projects is critical for your business, [please cons
 - [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (3 weeks ago)
-- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (4 weeks ago)
+- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 month ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 
 ## 🔨 My recent Pull Requests
