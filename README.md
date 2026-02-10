@@ -16,12 +16,12 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (4 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (5 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
 - [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
-- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (1 month ago)
+- [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
+- [DannyvdSluijs/PicqerExactPhpClientGenerator](https://github.com/DannyvdSluijs/PicqerExactPhpClientGenerator) (2 months ago)
 - [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (2 months ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
 
@@ -32,8 +32,8 @@ If one of those open source projects is critical for your business, [please cons
 - [feat: Add support for including service options from GET /service endpoint](https://github.com/MyParcelCOM/api-sdk-php/pull/260) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
 - [fix: Resolve Implicitly marking parameter $... as nullable is deprecated deprecation messages](https://github.com/MyParcelCOM/api-sdk-php/pull/259) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (1 month ago)
 - [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (1 month ago)
-- [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 month ago)
-- [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
+- [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 months ago)
+- [ci: Run workflows against 5.x.x branches](https://github.com/jsonrainbow/json-schema/pull/859) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [build: Move PHP 8.5 to default add PHP 8.6 as experimental](https://github.com/jsonrainbow/json-schema/pull/852) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [refactor: Add PHP 8.5 in build matrix](https://github.com/JsonMapper/JsonMapper/pull/204) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
 - [refactor: Update to new Jetbrains logo](https://github.com/JsonMapper/JsonMapper/pull/203) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
