@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (3 days ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (6 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -23,10 +24,14 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (4 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
-- [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
+- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
+- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (today)
 - [Add GitHub Actions CI for 5.x.x and fix curl_close deprecation on PHP 8&#43;](https://github.com/jsonrainbow/json-schema/pull/900) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Update readme for draft 7](https://github.com/jsonrainbow/json-schema/pull/899) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
@@ -37,11 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [docs: Mention draft 6 and 7 support](https://github.com/jsonrainbow/docs/pull/11) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [feat: Update Json Schema for PHP to latest version and use non RC image for docker container](https://github.com/bowtie-json-schema/bowtie/pull/2405) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [docs: Correct trailing spaces in markdown files and add .editorconfig instruction file](https://github.com/jsonrainbow/json-schema/pull/873) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [docs: prepare for release of v2.0.1](https://github.com/infi-nl/timechimp-billability-chart/pull/31) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (2 months ago)
-- [feat: Add support for including service options from GET /service endpoint](https://github.com/MyParcelCOM/api-sdk-php/pull/260) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (2 months ago)
-- [fix: Resolve Implicitly marking parameter $... as nullable is deprecated deprecation messages](https://github.com/MyParcelCOM/api-sdk-php/pull/259) on [MyParcelCOM/api-sdk-php](https://github.com/MyParcelCOM/api-sdk-php) (2 months ago)
-- [fix: Improve logging, correct theme url](https://github.com/infi-nl/timechimp-billability-chart/pull/30) on [infi-nl/timechimp-billability-chart](https://github.com/infi-nl/timechimp-billability-chart) (3 months ago)
-- [chore: update models from documentation 2025-12-10](https://github.com/picqer/exact-php-client/pull/688) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (3 months ago)
 
 ---
 
