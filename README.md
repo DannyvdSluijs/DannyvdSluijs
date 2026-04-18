@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 weeks ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (2 weeks ago)
@@ -23,11 +24,10 @@ If one of those open source projects is critical for your business, [please cons
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (3 weeks ago)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
-- [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
-- [build: Raise vimeo/psalm and myclabs/php-enum version constraints](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
 - [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 week ago)
