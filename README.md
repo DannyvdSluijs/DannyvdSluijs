@@ -16,10 +16,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
+- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [DannyvdSluijs/2fa-jackpot](https://github.com/DannyvdSluijs/2fa-jackpot) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -27,13 +27,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 weeks ago)
-- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
-- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
-- [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
-- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
-- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (4 weeks ago)
+- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [fix: Generally cleanup the repo from develop and master references, as well as some generic corrections](https://github.com/JsonMapper/LaravelPackage/pull/35) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [ci: Add workflow to handle Copilot agent startup](https://github.com/JsonMapper/LaravelPackage/pull/34) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
+- [Merge develop into main](https://github.com/JsonMapper/LaravelPackage/pull/33) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (1 month ago)
 - [Add GitHub Actions CI for 5.x.x and fix curl_close deprecation on PHP 8&#43;](https://github.com/jsonrainbow/json-schema/pull/900) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Update readme for draft 7](https://github.com/jsonrainbow/json-schema/pull/899) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 - [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
