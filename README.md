@@ -41,7 +41,7 @@ If one of those open source projects is critical for your business, [please cons
 - [Update justinrainbow/json-schema test harness](https://github.com/bowtie-json-schema/bowtie/pull/2431) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
 - [Fix issue when http headers are already present (#843) for 5.x.x branch](https://github.com/jsonrainbow/json-schema/pull/893) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [ci: Add Copilot setup steps](https://github.com/jsonrainbow/json-schema/pull/892) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [feat: Add draft2019 as copy from draft07](https://github.com/jsonrainbow/json-schema/pull/885) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
+- [feat: Add Draft-2019-09](https://github.com/jsonrainbow/json-schema/pull/885) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 
 ---
 
