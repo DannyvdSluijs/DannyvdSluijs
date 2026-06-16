@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 month ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (1 month ago)
@@ -27,6 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Add Draft 2019-09 support](https://github.com/bowtie-json-schema/bowtie/pull/2818) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (today)
 - [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 weeks ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Add GitHub Actions CI for 5.x.x and fix curl_close deprecation on PHP 8&#43;](https://github.com/jsonrainbow/json-schema/pull/900) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Update readme for draft 7](https://github.com/jsonrainbow/json-schema/pull/899) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [Fix justinrainbow/json-schema checkmode mapping](https://github.com/bowtie-json-schema/bowtie/pull/2432) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
-- [Update justinrainbow/json-schema test harness](https://github.com/bowtie-json-schema/bowtie/pull/2431) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 months ago)
 
 ---
 
