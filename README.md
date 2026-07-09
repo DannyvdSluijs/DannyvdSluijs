@@ -27,7 +27,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
+- [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 day ago)
 - [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 week ago)
 - [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
