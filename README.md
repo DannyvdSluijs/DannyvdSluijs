@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [myparcelnl/developer](https://github.com/myparcelnl/developer) (today)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
@@ -23,7 +24,6 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (2 months ago)
-- [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
 
 ## 🔨 My recent Pull Requests
 
