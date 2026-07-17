@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
@@ -23,7 +24,6 @@ If one of those open source projects is critical for your business, [please cons
 - [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (2 months ago)
 - [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 
 ## 🔨 My recent Pull Requests
 
