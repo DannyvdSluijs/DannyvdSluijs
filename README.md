@@ -27,6 +27,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Update composer.json authors to reflect current active maintainer](https://github.com/jsonrainbow/json-schema/pull/928) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Avoid unconditional constraint instantiation in Draft06/07/2019 dispatch](https://github.com/jsonrainbow/json-schema/pull/926) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
 - [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
@@ -40,8 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
 - [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
-- [build: Restore support for Laravel  8,9 and 10](https://github.com/JsonMapper/LaravelPackage/pull/37) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
-- [build: Add workflows for changelog and release automation](https://github.com/JsonMapper/LaravelPackage/pull/36) on [JsonMapper/LaravelPackage](https://github.com/JsonMapper/LaravelPackage) (3 months ago)
 
 ---
 
