@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 day ago)
+- [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (3 weeks ago)
