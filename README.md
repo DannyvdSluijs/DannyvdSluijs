@@ -39,7 +39,7 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [feat: Upgrade to Hyde v2 using upgrade guide](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io/pull/83) on [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
-- [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (2 months ago)
+- [Fix typo in keynote text](https://github.com/infi-nl/con.infi.nl/pull/24) on [infi-nl/con.infi.nl](https://github.com/infi-nl/con.infi.nl) (3 months ago)
 - [Update to json schema test suite main branch](https://github.com/jsonrainbow/json-schema/pull/906) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 months ago)
 - [build: Raise myclabs/php-enum and phpunit/phpunit version constraints; Drop vimeo/psalm](https://github.com/JsonMapper/JsonMapper/pull/207) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 months ago)
 
