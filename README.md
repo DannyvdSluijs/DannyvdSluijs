@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 day ago)
+- [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 days ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (3 weeks ago)
 - [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (3 weeks ago)
@@ -29,7 +29,7 @@ If one of those open source projects is critical for your business, [please cons
 
 - [Update composer.json authors to reflect current active maintainer](https://github.com/jsonrainbow/json-schema/pull/928) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
 - [Avoid unconditional constraint instantiation in Draft06/07/2019 dispatch](https://github.com/jsonrainbow/json-schema/pull/926) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
-- [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 weeks ago)
+- [fix: Dont use mb_detect_encoding for mb_string function calls](https://github.com/jsonrainbow/json-schema/pull/924) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (4 weeks ago)
 - [feat: CI-762 - Add InPost custom contract instructions](https://github.com/myparcelnl/developer/pull/206) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 month ago)
 - [fix: Applies fixes for justinrainbow/json-schema for draft 2019-09 once results of 2026.6.1 release where available](https://github.com/bowtie-json-schema/bowtie/pull/2880) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (1 month ago)
 - [fix: Use specific PHP version and update actions/checkout](https://github.com/jsonrainbow/docs/pull/17) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
