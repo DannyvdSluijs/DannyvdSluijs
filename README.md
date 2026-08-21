@@ -27,6 +27,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (2 days ago)
 - [chore: Stop tracking the _site build output](https://github.com/jsonrainbow/docs/pull/21) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
 - [fix: Repair broken sitemap and RSS links in footer](https://github.com/jsonrainbow/docs/pull/20) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 days ago)
@@ -40,8 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [Upgrade to HydePHP v2.0](https://github.com/jsonrainbow/docs/pull/16) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
 - [Update README with Draft 7 badge correction and include JetBrains logo](https://github.com/jsonrainbow/json-schema/pull/921) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 - [feat: Add Draft 2019-09 support](https://github.com/bowtie-json-schema/bowtie/pull/2818) on [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) (2 months ago)
-- [fix: treat optional JSON Schema test suite cases as real tests (#913)](https://github.com/jsonrainbow/json-schema/pull/915) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
-- [feat: add bin/run-test-case to run a single test suite case by description](https://github.com/jsonrainbow/json-schema/pull/914) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 months ago)
 
 ---
 
