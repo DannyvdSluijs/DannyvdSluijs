@@ -16,9 +16,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 days ago)
-- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (4 days ago)
+- [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
@@ -27,15 +27,15 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
-- [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
-- [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (6 days ago)
-- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
-- [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
+- [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
+- [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [Replace Jekyll with HydePHP](https://github.com/JsonMapper/jsonmapper.github.io/pull/65) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
+- [fix: Handle null byte when validating date/time formats](https://github.com/jsonrainbow/json-schema/pull/939) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
+- [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (2 weeks ago)
 - [chore: Stop tracking the _site build output](https://github.com/jsonrainbow/docs/pull/21) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [fix: Repair broken sitemap and RSS links in footer](https://github.com/jsonrainbow/docs/pull/20) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
