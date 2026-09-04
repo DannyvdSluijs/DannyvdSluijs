@@ -27,6 +27,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
+- [Resolve nested relative ids against their enclosing id](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [fix: Correct changelog and changelog updates](https://github.com/jsonrainbow/json-schema/pull/945) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
 - [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
@@ -40,8 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [fix: Correct php-cs-fixer setup](https://github.com/jsonrainbow/json-schema/pull/938) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [fix: Upgrade actions/configure-pages to version 6, resolving the node 20 deprecation message](https://github.com/hydephp/action/pull/67) on [hydephp/action](https://github.com/hydephp/action) (2 weeks ago)
 - [chore: Stop tracking the _site build output](https://github.com/jsonrainbow/docs/pull/21) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
-- [fix: Repair broken sitemap and RSS links in footer](https://github.com/jsonrainbow/docs/pull/20) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
-- [docs: Document strict validation for newer drafts](https://github.com/jsonrainbow/docs/pull/19) on [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 
 ---
 
