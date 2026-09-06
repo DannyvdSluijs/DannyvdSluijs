@@ -22,8 +22,8 @@ If one of those open source projects is critical for your business, [please cons
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (1 month ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 - [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (1 month ago)
+- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
