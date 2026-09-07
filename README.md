@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (6 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 weeks ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (3 weeks ago)
@@ -27,10 +27,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 days ago)
-- [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
-- [fix: Correct changelog and changelog updates](https://github.com/jsonrainbow/json-schema/pull/945) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (3 days ago)
+- [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: Avoid restricted stargazers endpoint in Welcome workflow and avoid running for bot user types](https://github.com/jsonrainbow/json-schema/pull/946) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
+- [fix: Correct changelog and changelog updates](https://github.com/jsonrainbow/json-schema/pull/945) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [ci: Fix the PHP 8.0 build and update the checkout action](https://github.com/JsonMapper/JsonMapper/pull/213) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 week ago)
