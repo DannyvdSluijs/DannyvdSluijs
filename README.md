@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
@@ -23,10 +24,11 @@ If one of those open source projects is critical for your business, [please cons
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
 - [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (2 months ago)
 - [DannyvdSluijs/lottes-obby](https://github.com/DannyvdSluijs/lottes-obby) (2 months ago)
-- [DannyvdSluijs/DannyvdSluijs.github.io](https://github.com/DannyvdSluijs/DannyvdSluijs.github.io) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
+- [build(deps): bump justinrainbow/json-schema from 6.10.0 to 6.13.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/27) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
+- [Refuse to retrieve non-local schemas](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/26) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
 - [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [Validate iri and iri-reference formats according to RFC 3987](https://github.com/jsonrainbow/json-schema/pull/962) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
@@ -40,8 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [docs: Refresh the README feature list and examples](https://github.com/JsonMapper/JsonMapper/pull/212) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [ci: parse and analyse the documentation&#39;s PHP examples](https://github.com/JsonMapper/jsonmapper.github.io/pull/69) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [docs: resolve the documentation drift reported in #63](https://github.com/JsonMapper/jsonmapper.github.io/pull/68) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [fix: correct the invalid PHP in the constructor middleware example](https://github.com/JsonMapper/jsonmapper.github.io/pull/67) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
-- [fix: move the copy button clear of the code on narrow screens](https://github.com/JsonMapper/jsonmapper.github.io/pull/66) on [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 
 ---
 
