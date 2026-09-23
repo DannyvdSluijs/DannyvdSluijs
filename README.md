@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (3 weeks ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (3 weeks ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
@@ -27,10 +27,10 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [Validate iri and iri-reference formats according to RFC 3987](https://github.com/jsonrainbow/json-schema/pull/962) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
-- [Validate uri-template format according to RFC 6570](https://github.com/jsonrainbow/json-schema/pull/960) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Validate iri and iri-reference formats according to RFC 3987](https://github.com/jsonrainbow/json-schema/pull/962) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Fix uri-template rejecting non-Latin literals on PCRE2 10.46](https://github.com/jsonrainbow/json-schema/pull/961) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
+- [Validate uri-template format according to RFC 6570](https://github.com/jsonrainbow/json-schema/pull/960) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
 - [fix: Address warning on PHPUnit process due to upstream changes](https://github.com/jsonrainbow/json-schema/pull/956) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [Report schema loading failures as an errored case](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/19) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
 - [Resolve nested schema ids against their enclosing base uri](https://github.com/jsonrainbow/json-schema/pull/947) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
