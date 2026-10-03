@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (3 days ago)
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (4 days ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
@@ -27,9 +27,9 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 day ago)
-- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (3 days ago)
-- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (3 days ago)
+- [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 days ago)
+- [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (4 days ago)
+- [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (4 days ago)
 - [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
 - [Fix badge URL for Draft 2019-09 in README](https://github.com/jsonrainbow/json-schema/pull/964) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [build(deps-dev): bump squizlabs/php_codesniffer from 4.0.1 to 4.0.2](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/28) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 week ago)
