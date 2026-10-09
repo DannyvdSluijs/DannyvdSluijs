@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
@@ -23,7 +24,6 @@ If one of those open source projects is critical for your business, [please cons
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (1 month ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (1 month ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (1 month ago)
-- [DannyvdSluijs/tom-auto-avontuur](https://github.com/DannyvdSluijs/tom-auto-avontuur) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
