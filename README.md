@@ -27,11 +27,11 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (3 days ago)
+- [Allow nullable end parameter in getUpdated and getDeleted](https://github.com/hanishsingla/salesforce-rest-sdk/pull/3) on [hanishsingla/salesforce-rest-sdk](https://github.com/hanishsingla/salesforce-rest-sdk) (4 days ago)
 - [Allow bin/run-test-case to run a complete test file](https://github.com/jsonrainbow/json-schema/pull/966) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Make main default branch](https://github.com/JsonMapper/SymfonyBundle/pull/11) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
 - [Merge develop into main](https://github.com/JsonMapper/SymfonyBundle/pull/10) on [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 week ago)
-- [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (1 week ago)
+- [feat: Updates from the documentation d.d. 2026-09-25](https://github.com/picqer/exact-php-client/pull/702) on [picqer/exact-php-client](https://github.com/picqer/exact-php-client) (2 weeks ago)
 - [Fix badge URL for Draft 2019-09 in README](https://github.com/jsonrainbow/json-schema/pull/964) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [build(deps-dev): bump squizlabs/php_codesniffer from 4.0.1 to 4.0.2](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/28) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
 - [build(deps): bump justinrainbow/json-schema from 6.10.0 to 6.13.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/27) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (2 weeks ago)
