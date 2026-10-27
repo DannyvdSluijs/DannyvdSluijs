@@ -16,17 +16,18 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (2 weeks ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (4 weeks ago)
 - [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 month ago)
 - [JsonMapper/jsonmapper.github.io](https://github.com/JsonMapper/jsonmapper.github.io) (2 months ago)
 - [jsonrainbow/docs](https://github.com/jsonrainbow/docs) (2 months ago)
 - [infi-nl/the-infi-way](https://github.com/infi-nl/the-infi-way) (2 months ago)
 
 ## 🔨 My recent Pull Requests
 
+- [chore: Drop the develop branch in favour of main](https://github.com/JsonMapper/JsonMapper/pull/217) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
 - [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Enforce LF line endings via .gitattributes and .editorconfig](https://github.com/jsonrainbow/json-schema/pull/980) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
@@ -41,7 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [build(deps-dev): bump squizlabs/php_codesniffer from 4.0.1 to 4.0.2](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/28) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 - [build(deps): bump justinrainbow/json-schema from 6.10.0 to 6.13.0](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/27) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
 - [Refuse to retrieve non-local schemas](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/26) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 month ago)
-- [Validate idn-email format](https://github.com/jsonrainbow/json-schema/pull/963) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 month ago)
 
 ---
 
