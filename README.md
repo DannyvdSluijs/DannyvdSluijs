@@ -16,7 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (2 weeks ago)
 - [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (4 weeks ago)
@@ -27,13 +27,13 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [chore: Remove the benchmarks](https://github.com/JsonMapper/JsonMapper/pull/221) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [chore: Remove leftover psalm script and configuration](https://github.com/JsonMapper/JsonMapper/pull/220) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [fix: Rename integration tests so PHPUnit picks them up](https://github.com/JsonMapper/JsonMapper/pull/219) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
-- [chore: Drop the develop branch in favour of main](https://github.com/JsonMapper/JsonMapper/pull/217) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (today)
+- [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [chore: Remove the benchmarks](https://github.com/JsonMapper/JsonMapper/pull/221) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [chore: Remove leftover psalm script and configuration](https://github.com/JsonMapper/JsonMapper/pull/220) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [fix: Rename integration tests so PHPUnit picks them up](https://github.com/JsonMapper/JsonMapper/pull/219) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
+- [chore: Drop the develop branch in favour of main](https://github.com/JsonMapper/JsonMapper/pull/217) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 day ago)
 - [fix: Report float limits in numeric error messages without casting to int](https://github.com/jsonrainbow/json-schema/pull/982) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Remove legacy Sphinx docs folder](https://github.com/jsonrainbow/json-schema/pull/981) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [chore: Enforce LF line endings via .gitattributes and .editorconfig](https://github.com/jsonrainbow/json-schema/pull/980) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
