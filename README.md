@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (today)
-- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
+- [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (1 day ago)
+- [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (2 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (3 weeks ago)
@@ -27,18 +27,18 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
-- [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [feat(release): add add-v-prefix input to tag releases as v7.0.0](https://github.com/DannyvdSluijs/changelog-actions/pull/9) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [Add GitHub Sponsors username to FUNDING.yml](https://github.com/DannyvdSluijs/changelog-actions/pull/8) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [ci: update pinned actions and keep them current with Dependabot](https://github.com/DannyvdSluijs/changelog-actions/pull/7) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (1 day ago)
-- [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [fix(update): do not allow the PR title in the commit message](https://github.com/DannyvdSluijs/changelog-actions/pull/5) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [fix(update): require the entry template to be a single list item](https://github.com/DannyvdSluijs/changelog-actions/pull/4) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [fix(update): only skip a PR when its exact entry is already present](https://github.com/DannyvdSluijs/changelog-actions/pull/3) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [fix: read changelogs over 1 MB through the blobs API](https://github.com/DannyvdSluijs/changelog-actions/pull/2) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
-- [fix: harden handling of untrusted PR titles](https://github.com/DannyvdSluijs/changelog-actions/pull/1) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [ci: keep the changelog up to date with the repo&#39;s own actions](https://github.com/DannyvdSluijs/changelog-actions/pull/12) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [docs: drop the GITHUB_TOKEN permissions when passing an app token](https://github.com/DannyvdSluijs/changelog-actions/pull/11) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [feat(release): add add-v-prefix input to tag releases as v7.0.0](https://github.com/DannyvdSluijs/changelog-actions/pull/9) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [Add GitHub Sponsors username to FUNDING.yml](https://github.com/DannyvdSluijs/changelog-actions/pull/8) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [ci: update pinned actions and keep them current with Dependabot](https://github.com/DannyvdSluijs/changelog-actions/pull/7) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (2 days ago)
+- [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
+- [fix(update): do not allow the PR title in the commit message](https://github.com/DannyvdSluijs/changelog-actions/pull/5) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
+- [fix(update): require the entry template to be a single list item](https://github.com/DannyvdSluijs/changelog-actions/pull/4) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
+- [fix(update): only skip a PR when its exact entry is already present](https://github.com/DannyvdSluijs/changelog-actions/pull/3) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
+- [fix: read changelogs over 1 MB through the blobs API](https://github.com/DannyvdSluijs/changelog-actions/pull/2) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
+- [fix: harden handling of untrusted PR titles](https://github.com/DannyvdSluijs/changelog-actions/pull/1) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 days ago)
 - [feat: Allow symfony/cache ^8.0](https://github.com/JsonMapper/JsonMapper/pull/224) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [chore: Replace the unmaintained thenabeel/action-phpcs action](https://github.com/JsonMapper/JsonMapper/pull/223) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [chore: Update PHPStan to 2.x and run it in CI](https://github.com/JsonMapper/JsonMapper/pull/222) on [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
