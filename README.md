@@ -16,6 +16,7 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
+- [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (today)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (3 days ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (6 days ago)
 - [myparcelnl/developer](https://github.com/myparcelnl/developer) (1 week ago)
@@ -23,7 +24,6 @@ If one of those open source projects is critical for your business, [please cons
 - [JsonMapper/JsonMapper](https://github.com/JsonMapper/JsonMapper) (1 week ago)
 - [jsonrainbow/.github](https://github.com/jsonrainbow/.github) (2 weeks ago)
 - [DannyvdSluijs/AoC-2024](https://github.com/DannyvdSluijs/AoC-2024) (1 month ago)
-- [JsonMapper/SymfonyBundle](https://github.com/JsonMapper/SymfonyBundle) (1 month ago)
 
 ## 🔨 My recent Pull Requests
 
