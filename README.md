@@ -16,8 +16,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔭 Check out what I'm currently working on
 
-- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
-- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (5 days ago)
+- [DannyvdSluijs/AoC-2025](https://github.com/DannyvdSluijs/AoC-2025) (today)
+- [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
 - [DannyvdSluijs/AoC-2026](https://github.com/DannyvdSluijs/AoC-2026) (1 week ago)
 - [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [DannyvdSluijs/ExactOnlineRestApiReference](https://github.com/DannyvdSluijs/ExactOnlineRestApiReference) (1 week ago)
@@ -27,6 +27,8 @@ If one of those open source projects is critical for your business, [please cons
 
 ## 🔨 My recent Pull Requests
 
+- [fix: Throw a clear exception when idn-hostname validation lacks ext-intl](https://github.com/jsonrainbow/json-schema/pull/1009) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (today)
+- [build: Install intl extension in the harness image](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/44) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (today)
 - [build: Update to the latest version justinrainbow/json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema/pull/41) on [bowtie-json-schema/php-justinrainbow-json-schema](https://github.com/bowtie-json-schema/php-justinrainbow-json-schema) (1 day ago)
 - [ci: Run the 32-bit job on ubuntu-24.04](https://github.com/jsonrainbow/json-schema/pull/996) on [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) (1 week ago)
 - [docs(backoffice): add the spring contract activation page](https://github.com/myparcelnl/developer/pull/291) on [myparcelnl/developer](https://github.com/myparcelnl/developer) (2 weeks ago)
@@ -40,8 +42,6 @@ If one of those open source projects is critical for your business, [please cons
 - [docs: use create-github-app-token v3 in the protected-branch example](https://github.com/DannyvdSluijs/changelog-actions/pull/10) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [feat(release): add add-v-prefix input to tag releases as v7.0.0](https://github.com/DannyvdSluijs/changelog-actions/pull/9) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 - [Add GitHub Sponsors username to FUNDING.yml](https://github.com/DannyvdSluijs/changelog-actions/pull/8) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
-- [ci: update pinned actions and keep them current with Dependabot](https://github.com/DannyvdSluijs/changelog-actions/pull/7) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
-- [ci: harden the workflow and the README examples](https://github.com/DannyvdSluijs/changelog-actions/pull/6) on [DannyvdSluijs/changelog-actions](https://github.com/DannyvdSluijs/changelog-actions) (3 weeks ago)
 
 ---
 
